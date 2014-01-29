@@ -1,0 +1,29 @@
+{
+  "name": "ue_web",
+  "description": "User Experience of WEB pages",
+  "tags": [
+    "automation",
+    "javascript",
+    "selenium",
+    "webdriver",
+    "ios",
+    "android",
+    "firefoxos",
+    "testing"
+  ],
+  "version": "0.0.1",
+  "author": "eyang@seven.com",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.corp.seven.com/catf/ue_web"
+  },
+  "engines": [ "node" ],
+  "dependencies": {
+    "colors": "~0.6.2",
+    "winston": "~0.7.2",
+    "wd": "0.2.10",
+    "chai": "1.8.1",
+    "chai-as-promised": "4.1.0"
+  }
+}
+
